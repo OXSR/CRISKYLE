@@ -18,7 +18,7 @@ SQLi, XSS, FLI, Iframe, Injección de comando y vulns de cookies
 
 What is CRISKYLE?
 
- -CRISKYLE is an advanced web scanning tool made in 2021 by me (osir), made based on JS, it takes this name from the famous American sniper Chris Kyle, referring to a precise and powerful tool for Android.
+ -CRISKYLE is an advanced web scanning tool made in 2021 by me (oseguir), made based on JS, it takes this name from the famous American sniper Chris Kyle, referring to a precise and powerful tool for Android.
 
 
  CRISKYLE can analyze web vulnerabilities, including:
