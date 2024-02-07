@@ -9,3 +9,5 @@ Herramienta avanzada de escaneo web
 CRISKYLE puede analizar vulnerables web, entre ellas:
 
 SQLi, XSS, FLI, Iframe, Injección de comando y vulns de cookies
+
+¡Todo eso automatizado a través de un click!
