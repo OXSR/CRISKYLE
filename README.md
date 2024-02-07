@@ -26,3 +26,14 @@ What is CRISKYLE?
  SQLi, XSS, FLI, Iframe, Command Injection and Cookie Vulns
 
  All of this automated through one click!
+
+
+[i]
+Scan:
+
+https://www.virustotal.com/gui/file/57d1a642fd2ef99500311867c99a4f51ab1f1c97db0d4c92c1aa81225d79caf7/summary
+
+
+Screenshot:
+
+https://ibb.co/dp0CKnh
